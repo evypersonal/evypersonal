@@ -6,8 +6,6 @@
 
 ![ Estatísticas Evellyn GitHub ](https://github-readme-stats.vercel.app/api?username=evypersonal&show_icons=true&theme=highcontrast)
 
-[![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=evypersonal)](https://github.com/anuraghazra/github-readme-stats)
-
 ##  🚀Tecnologias que estudo atualmente🚀
 
 <div style="display: inline_block"><br/>
