@@ -5,6 +5,7 @@
 [![ instagram ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evellyn-maria-09015b188/)
 
 ![ Estatísticas Evellyn GitHub ](https://github-readme-stats.vercel.app/api?username=evypersonal&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evypersonal&layout=compact&show_icons=true&theme=algolia)](https://github.com/evypersonal/github-readme-stats)
 
 ##  🚀Tecnologias que estudo atualmente🚀
 
