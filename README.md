@@ -1,8 +1,8 @@
 ###  Olá, eu sou a Evellyn de Oliveira! 😄
 
-[![ whatsapp ](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://bityli.com/MDCpt)
-[![ instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evellyndeoliveira.personal/ )
-[![ instagram ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evellyn-maria-09015b188/)
+[![ whatsapp ](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511959733267?text=Ol%C3%A1%20)
+[![ instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evy_kordei/)
+[![ instagram ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/evellyn-oliveira🏳️‍🌈-09015b188)
 
 ![ Estatísticas Evellyn GitHub ](https://github-readme-stats.vercel.app/api?username=evypersonal&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evypersonal&layout=compact&show_icons=true&theme=algolia)](https://github.com/evypersonal/github-readme-stats)
