@@ -7,14 +7,16 @@
 <div align="center" >
      
   ![ Estatísticas Evellyn GitHub ](https://github-readme-stats.vercel.app/api?username=evypersonal&show_icons=true&theme=transparent)
-  <a href="#">
-      <img  height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=evypersonal&theme=transparent&hide_border=false" alt="Github stats" />
-  </a>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evypersonal&layout=compact&show_icons=true&theme=transparent)](https://github.com/evypersonal/github-readme-stats)
+
 </div>
 
 <div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evypersonal&layout=compact&show_icons=true&theme=transparent)](https://github.com/evypersonal/github-readme-stats)
+<a href="#">
+  <img  height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=evypersonal&theme=transparent&hide_border=false" alt="Github stats" />
+</a>
+
 </div>
 
 <br>
