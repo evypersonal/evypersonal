@@ -8,7 +8,7 @@
      
   ![ Estatísticas Evellyn GitHub ](https://github-readme-stats.vercel.app/api?username=evypersonal&show_icons=true&theme=transparent)
   <a href="#">
-      <img  height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=evypersonal&theme=transparent&hide_border=false" alt="Github stats" />
+      <img  height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=evypersonal&theme=transparent&hide_border=false" alt="Github stats" />
   </a>
 </div>
 
