@@ -6,16 +6,15 @@
 
 <div align="center" >
      
-  ![ Estatísticas Evellyn GitHub ](https://github-readme-stats.vercel.app/api?username=evypersonal&show_icons=true&theme=transparent)
+  ![ Estatísticas Evellyn GitHub ](https://github-readme-stats.vercel.app/api?username=evypersonal&show_icons=true&theme=bear&background=000&border=30A3DC&dates=FFF)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evypersonal&layout=compact&show_icons=true&theme=transparent)](https://github.com/evypersonal/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evypersonal&layout=compact&show_icons=true&theme=bear&background=000&border=30A3DC&dates=FFF)](https://github.com/evypersonal/github-readme-stats)
 
 </div>
 
 <div align="center">
-<a href="#">
-  <img  height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=evypersonal&theme=transparent&hide_border=false" alt="Github stats" />
-</a>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=evypersonal&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 </div>
 
